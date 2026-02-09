@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-02-02T14:26:17.591618",
-  "total_events": 152,
+  "scraped_at": "2026-02-09T14:20:30.770954",
+  "total_events": 149,
   "events": [
     {
       "title": "President's Day Slugfest",
@@ -1335,24 +1335,6 @@
       "longitude": null
     },
     {
-      "title": "Impact CR: Orchestra Iowa Happy Hour",
-      "date": "February 4, 2026",
-      "time": "5:00 PM - 7:00 PM",
-      "location": "Cedar Rapids, IA",
-      "venue": null,
-      "category": "community",
-      "subcategory": "chamber",
-      "source": "Cedar Rapids Economic Alliance",
-      "source_url": "https://www.cedarrapids.org/events-calendar/",
-      "description": null,
-      "city": "Cedar Rapids",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.9779,
-      "longitude": -91.6656
-    },
-    {
       "title": "Collective Voice Day at the Capitol",
       "date": "February 11, 2026",
       "time": "1:00 PM - 7:00 PM",
@@ -1693,42 +1675,6 @@
       "registration_url": null,
       "latitude": 41.9779,
       "longitude": -91.6656
-    },
-    {
-      "title": "Sioux City Symphony",
-      "date": "February 7, 2026",
-      "time": "7:00 PM",
-      "location": "Sioux City, IA",
-      "venue": "Orpheum Theatre",
-      "category": "community",
-      "subcategory": "music",
-      "source": "Explore Siouxland",
-      "source_url": "https://exploresiouxland.com/events/",
-      "description": null,
-      "city": "Sioux City",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 42.4963,
-      "longitude": -96.4049
-    },
-    {
-      "title": "The Offspring with Bad Religion",
-      "date": "February 7, 2026",
-      "time": "7:00 PM",
-      "location": "Sioux City, IA",
-      "venue": "Tyson Events Center",
-      "category": "community",
-      "subcategory": "concert",
-      "source": "Explore Siouxland",
-      "source_url": "https://exploresiouxland.com/events/",
-      "description": null,
-      "city": "Sioux City",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 42.4963,
-      "longitude": -96.4049
     },
     {
       "title": "Monster Jam",
