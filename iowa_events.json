@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-03-02T14:30:39.103540",
-  "total_events": 127,
+  "scraped_at": "2026-03-09T13:05:05.794765",
+  "total_events": 124,
   "events": [
     {
       "title": "GameTime Basketball",
@@ -93,24 +93,6 @@
       "longitude": -90.4857
     },
     {
-      "title": "NCAA Women's Wrestling Championships",
-      "date": "March 6, 2026",
-      "time": "10:00 AM",
-      "location": "Coralville, IA",
-      "venue": "Xtream Arena",
-      "category": "sports",
-      "subcategory": "wrestling",
-      "source": "Xtream Arena",
-      "source_url": "https://xtreamarena.com/",
-      "description": null,
-      "city": "Coralville",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.6765,
-      "longitude": -91.5804
-    },
-    {
       "title": "MVC Women's Basketball Championship",
       "date": "March 12-15, 2026",
       "time": "All day",
@@ -145,24 +127,6 @@
       "registration_url": null,
       "latitude": 41.6765,
       "longitude": -91.5804
-    },
-    {
-      "title": "IGHSAU State Basketball Tournament",
-      "date": "March 2-7, 2026",
-      "time": "All day",
-      "location": "Des Moines, IA",
-      "venue": "Wells Fargo Arena",
-      "category": "sports",
-      "subcategory": "basketball",
-      "source": "Iowa Events Center",
-      "source_url": "https://www.iowaeventscenter.com/events/",
-      "description": null,
-      "city": "Des Moines",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.5868,
-      "longitude": -93.625
     },
     {
       "title": "IHSAA State Basketball Tournament",
@@ -1200,24 +1164,6 @@
       "subcategory": "chamber",
       "source": "Cedar Rapids Economic Alliance",
       "source_url": "https://www.cedarrapids.org/events-calendar/",
-      "description": null,
-      "city": "Cedar Rapids",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.9779,
-      "longitude": -91.6656
-    },
-    {
-      "title": "Carly Pearce",
-      "date": "March 7, 2026",
-      "time": "8:00 PM",
-      "location": "Cedar Rapids, IA",
-      "venue": "Riverside Casino",
-      "category": "entertainment",
-      "subcategory": "concert",
-      "source": "CR Events Live",
-      "source_url": "https://www.creventslive.com/",
       "description": null,
       "city": "Cedar Rapids",
       "teams": null,
