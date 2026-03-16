@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-03-09T13:05:05.794765",
-  "total_events": 124,
+  "scraped_at": "2026-03-16T13:14:37.134238",
+  "total_events": 120,
   "events": [
     {
       "title": "GameTime Basketball",
@@ -93,24 +93,6 @@
       "longitude": -90.4857
     },
     {
-      "title": "MVC Women's Basketball Championship",
-      "date": "March 12-15, 2026",
-      "time": "All day",
-      "location": "Coralville, IA",
-      "venue": "Xtream Arena",
-      "category": "sports",
-      "subcategory": "basketball",
-      "source": "Xtream Arena",
-      "source_url": "https://xtreamarena.com/",
-      "description": null,
-      "city": "Coralville",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.6765,
-      "longitude": -91.5804
-    },
-    {
       "title": "Battle By The River Rodeo",
       "date": "2026",
       "time": "Evening",
@@ -127,24 +109,6 @@
       "registration_url": null,
       "latitude": 41.6765,
       "longitude": -91.5804
-    },
-    {
-      "title": "IHSAA State Basketball Tournament",
-      "date": "March 9-14, 2026",
-      "time": "All day",
-      "location": "Des Moines, IA",
-      "venue": "Wells Fargo Arena",
-      "category": "sports",
-      "subcategory": "basketball",
-      "source": "Iowa Events Center",
-      "source_url": "https://www.iowaeventscenter.com/events/",
-      "description": null,
-      "city": "Des Moines",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.5868,
-      "longitude": -93.625
     },
     {
       "title": "Iowa Barnstormers Arena Football",
@@ -1263,24 +1227,6 @@
       "longitude": -91.6656
     },
     {
-      "title": "Made for Her Women's Market",
-      "date": "March 14, 2026",
-      "time": "10:00 AM - 4:00 PM",
-      "location": "Cedar Rapids, IA",
-      "venue": "Hawkeye Downs",
-      "category": "community",
-      "subcategory": "expo",
-      "source": "Hawkeye Downs",
-      "source_url": "https://www.hawkeyedowns.org/",
-      "description": null,
-      "city": "Cedar Rapids",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.9779,
-      "longitude": -91.6656
-    },
-    {
       "title": "AACA Auto Parts Swap Meet",
       "date": "March 2026",
       "time": "All day",
@@ -1585,24 +1531,6 @@
       "registration_url": null,
       "latitude": 41.6267,
       "longitude": -93.7122
-    },
-    {
-      "title": "AYP St. Patrick's Day Party",
-      "date": "March 12, 2026",
-      "time": "5:30 PM - 7:30 PM",
-      "location": "Ankeny, IA",
-      "venue": "Ankeny Chamber",
-      "category": "community",
-      "subcategory": "networking",
-      "source": "Ankeny Chamber",
-      "source_url": "https://www.ankeny.org/",
-      "description": null,
-      "city": "Ankeny",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.7318,
-      "longitude": -93.6001
     },
     {
       "title": "Ankeny Chamber SummerFest",
