@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-04-13T13:27:36.910687",
-  "total_events": 112,
+  "scraped_at": "2026-04-20T13:43:54.285984",
+  "total_events": 110,
   "events": [
     {
       "title": "GameTime Basketball",
@@ -1083,24 +1083,6 @@
       "longitude": -91.6656
     },
     {
-      "title": "Sevendust",
-      "date": "April 17, 2026",
-      "time": "7:00 PM",
-      "location": "Cedar Rapids, IA",
-      "venue": "Riverside Casino",
-      "category": "entertainment",
-      "subcategory": "concert",
-      "source": "CR Events Live",
-      "source_url": "https://www.creventslive.com/",
-      "description": null,
-      "city": "Cedar Rapids",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.9779,
-      "longitude": -91.6656
-    },
-    {
       "title": "Jeff Foxworthy",
       "date": "June 13, 2026",
       "time": "8:00 PM",
@@ -1234,24 +1216,6 @@
       "venue": "Five Flags Theater",
       "category": "community",
       "subcategory": "entertainment",
-      "source": "Dubuque Chamber",
-      "source_url": "https://www.dubuquechamber.com",
-      "description": null,
-      "city": "Dubuque",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 42.5006,
-      "longitude": -90.6646
-    },
-    {
-      "title": "Packers Tailgate Tour - Field of Dreams",
-      "date": "April 16, 2026",
-      "time": "All day",
-      "location": "Dubuque, IA",
-      "venue": "Field of Dreams",
-      "category": "community",
-      "subcategory": "sports",
       "source": "Dubuque Chamber",
       "source_url": "https://www.dubuquechamber.com",
       "description": null,
