@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-04-20T13:43:54.285984",
-  "total_events": 110,
+  "scraped_at": "2026-04-27T13:55:07.975193",
+  "total_events": 109,
   "events": [
     {
       "title": "GameTime Basketball",
@@ -1225,24 +1225,6 @@
       "registration_url": null,
       "latitude": 42.5006,
       "longitude": -90.6646
-    },
-    {
-      "title": "Drake Relays",
-      "date": "April 23-26, 2026",
-      "time": "All day",
-      "location": "Des Moines, IA",
-      "venue": "Drake Stadium",
-      "category": "community",
-      "subcategory": "track",
-      "source": "Catch Des Moines",
-      "source_url": "https://www.catchdesmoines.com/events/",
-      "description": null,
-      "city": "Des Moines",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.5868,
-      "longitude": -93.625
     },
     {
       "title": "Des Moines Arts Festival",
