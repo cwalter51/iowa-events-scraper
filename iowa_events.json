@@ -1,25 +1,7 @@
 {
-  "scraped_at": "2026-04-27T13:55:07.975193",
-  "total_events": 109,
+  "scraped_at": "2026-05-04T14:02:33.935883",
+  "total_events": 108,
   "events": [
-    {
-      "title": "GameTime Basketball",
-      "date": "May 2-3, 2026",
-      "time": "8:15 AM",
-      "location": "Bettendorf, IA",
-      "venue": "TBK Bank Sports Complex",
-      "category": "kids_athletics",
-      "subcategory": "basketball",
-      "source": "TBK Bank Sports Complex",
-      "source_url": "https://www.tbkbanksportscomplex.com/events/",
-      "description": null,
-      "city": "Bettendorf",
-      "teams": null,
-      "age_group": "Youth",
-      "registration_url": null,
-      "latitude": 41.5503,
-      "longitude": -90.4857
-    },
     {
       "title": "GameTime Basketball",
       "date": "May 30-31, 2026",
