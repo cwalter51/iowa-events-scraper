@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-11T14:53:14.004159",
-  "total_events": 108,
+  "scraped_at": "2026-05-18T15:33:15.059163",
+  "total_events": 107,
   "events": [
     {
       "title": "GameTime Basketball",
@@ -109,24 +109,6 @@
       "registration_url": null,
       "latitude": 41.5868,
       "longitude": -93.625
-    },
-    {
-      "title": "Adventureland Season Opens",
-      "date": "May 16, 2026",
-      "time": "10:00 AM",
-      "location": "Altoona, IA",
-      "venue": "Adventureland",
-      "category": "family",
-      "subcategory": "opening",
-      "source": "Adventureland",
-      "source_url": "https://www.adventurelandresort.com/",
-      "description": null,
-      "city": "Altoona",
-      "teams": null,
-      "age_group": "All ages",
-      "registration_url": null,
-      "latitude": 41.6442,
-      "longitude": -93.4647
     },
     {
       "title": "Paul Bunyan Lumberjack Show",
