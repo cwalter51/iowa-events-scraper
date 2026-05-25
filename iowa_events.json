@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-18T15:33:15.059163",
-  "total_events": 107,
+  "scraped_at": "2026-05-25T14:54:17.502754",
+  "total_events": 103,
   "events": [
     {
       "title": "GameTime Basketball",
@@ -1425,42 +1425,6 @@
       "longitude": -93.6001
     },
     {
-      "title": "Tulip Time Festival",
-      "date": "May 2026",
-      "time": "All day",
-      "location": "Pella, IA",
-      "venue": null,
-      "category": "community",
-      "subcategory": "festival",
-      "source": "Travel Iowa",
-      "source_url": "https://www.traveliowa.com/events/",
-      "description": null,
-      "city": "Pella",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.4083,
-      "longitude": -92.9163
-    },
-    {
-      "title": "Tivoli Fest",
-      "date": "May 2026",
-      "time": "All day",
-      "location": "Elk Horn, IA",
-      "venue": null,
-      "category": "community",
-      "subcategory": "festival",
-      "source": "Travel Iowa",
-      "source_url": "https://www.traveliowa.com/events/",
-      "description": null,
-      "city": "Elk Horn",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.5944,
-      "longitude": -95.0672
-    },
-    {
       "title": "Sioux Center Summer Celebration",
       "date": "June 4-6, 2026",
       "time": "All day",
@@ -1677,24 +1641,6 @@
       "longitude": -91.5302
     },
     {
-      "title": "IHSAA/IGHSAU State Track",
-      "date": "May 2026",
-      "time": "All day",
-      "location": "Des Moines, IA",
-      "venue": "Drake Stadium",
-      "category": "high_school_sports",
-      "subcategory": "track",
-      "source": "IHSAA/IGHSAU",
-      "source_url": "https://www.iahsaa.org",
-      "description": null,
-      "city": "Des Moines",
-      "teams": null,
-      "age_group": "High School All",
-      "registration_url": null,
-      "latitude": 41.5868,
-      "longitude": -93.625
-    },
-    {
       "title": "IHSAA State Baseball",
       "date": "July 2026",
       "time": "All day",
@@ -1855,24 +1801,6 @@
       "registration_url": null,
       "latitude": 41.5868,
       "longitude": -93.625
-    },
-    {
-      "title": "Opening Day",
-      "date": "May 2026",
-      "time": "9:00 AM",
-      "location": "Urbandale, IA",
-      "venue": "Living History Farms",
-      "category": "family",
-      "subcategory": "opening",
-      "source": "Living History Farms",
-      "source_url": "https://www.lhf.org/",
-      "description": null,
-      "city": "Urbandale",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.6267,
-      "longitude": -93.7122
     },
     {
       "title": "Independence Day Celebration",
