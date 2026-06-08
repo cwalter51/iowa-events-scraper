@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-01T17:39:42.533577",
-  "total_events": 99,
+  "scraped_at": "2026-06-08T15:53:19.253518",
+  "total_events": 96,
   "events": [
     {
       "title": "GameTime Basketball",
@@ -91,24 +91,6 @@
       "registration_url": null,
       "latitude": 41.5868,
       "longitude": -93.625
-    },
-    {
-      "title": "Paul Bunyan Lumberjack Show",
-      "date": "June 1-14, 2026",
-      "time": "All day",
-      "location": "Altoona, IA",
-      "venue": "Adventureland",
-      "category": "family",
-      "subcategory": "show",
-      "source": "Adventureland",
-      "source_url": "https://www.adventurelandresort.com/",
-      "description": null,
-      "city": "Altoona",
-      "teams": null,
-      "age_group": "All ages",
-      "registration_url": null,
-      "latitude": 41.6442,
-      "longitude": -93.4647
     },
     {
       "title": "Canine Stars Stunt Dog Show",
@@ -1047,24 +1029,6 @@
       "longitude": -91.6656
     },
     {
-      "title": "Pride Appreciation",
-      "date": "June 4, 2026",
-      "time": "7:00 PM",
-      "location": "Sioux City, IA",
-      "venue": "Downtown",
-      "category": "community",
-      "subcategory": "community",
-      "source": "Explore Siouxland",
-      "source_url": "https://exploresiouxland.com/events/",
-      "description": null,
-      "city": "Sioux City",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 42.4963,
-      "longitude": -96.4049
-    },
-    {
       "title": "Saturday in the Park",
       "date": "July 2026",
       "time": "All day",
@@ -1351,24 +1315,6 @@
       "registration_url": null,
       "latitude": 41.7318,
       "longitude": -93.6001
-    },
-    {
-      "title": "Sioux Center Summer Celebration",
-      "date": "June 4-6, 2026",
-      "time": "All day",
-      "location": "Sioux Center, IA",
-      "venue": null,
-      "category": "community",
-      "subcategory": "festival",
-      "source": "Travel Iowa",
-      "source_url": "https://www.traveliowa.com/events/",
-      "description": null,
-      "city": "Sioux Center",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 43.0786,
-      "longitude": -96.1756
     },
     {
       "title": "Iowa City Jazz Festival",
