@@ -1,25 +1,7 @@
 {
-  "scraped_at": "2026-06-22T16:58:22.120198",
-  "total_events": 89,
+  "scraped_at": "2026-06-29T15:47:30.637172",
+  "total_events": 86,
   "events": [
-    {
-      "title": "Summer Basketball Tournament",
-      "date": "June 27-28, 2026",
-      "time": "8:15 AM",
-      "location": "Bettendorf, IA",
-      "venue": "TBK Bank Sports Complex",
-      "category": "kids_athletics",
-      "subcategory": "basketball",
-      "source": "TBK Bank Sports Complex",
-      "source_url": "https://www.tbkbanksportscomplex.com/events/",
-      "description": null,
-      "city": "Bettendorf",
-      "teams": null,
-      "age_group": "All ages",
-      "registration_url": null,
-      "latitude": 41.5503,
-      "longitude": -90.4857
-    },
     {
       "title": "Great River Classic Soccer",
       "date": "September 24-26, 2026",
@@ -307,24 +289,6 @@
       "registration_url": null,
       "latitude": 41.5868,
       "longitude": -93.625
-    },
-    {
-      "title": "Linn County Fair",
-      "date": "June 24-29, 2026",
-      "time": "All day",
-      "location": "Central City, IA",
-      "venue": "Central City Fairgrounds",
-      "category": "fair",
-      "subcategory": "county_fair",
-      "source": "Iowa Fairs Association",
-      "source_url": "https://iowafairs.com/",
-      "description": null,
-      "city": "Central City",
-      "teams": null,
-      "age_group": "All ages",
-      "registration_url": null,
-      "latitude": 42.2036,
-      "longitude": -91.5268
     },
     {
       "title": "Winneshiek County Fair",
@@ -991,24 +955,6 @@
       "registration_url": null,
       "latitude": 42.5006,
       "longitude": -90.6646
-    },
-    {
-      "title": "Des Moines Arts Festival",
-      "date": "June 26-28, 2026",
-      "time": "All day",
-      "location": "Des Moines, IA",
-      "venue": "Western Gateway Park",
-      "category": "community",
-      "subcategory": "arts",
-      "source": "Catch Des Moines",
-      "source_url": "https://www.catchdesmoines.com/events/",
-      "description": null,
-      "city": "Des Moines",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.5868,
-      "longitude": -93.625
     },
     {
       "title": "World Food & Music Festival",
