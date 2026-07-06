@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-29T15:47:30.637172",
-  "total_events": 86,
+  "scraped_at": "2026-07-06T15:33:24.173348",
+  "total_events": 82,
   "events": [
     {
       "title": "Great River Classic Soccer",
@@ -55,24 +55,6 @@
       "registration_url": null,
       "latitude": 41.5868,
       "longitude": -93.625
-    },
-    {
-      "title": "America's 250th Birthday Fireworks",
-      "date": "July 4, 2026",
-      "time": "9:00 PM",
-      "location": "Altoona, IA",
-      "venue": "Adventureland",
-      "category": "family",
-      "subcategory": "fireworks",
-      "source": "Adventureland",
-      "source_url": "https://www.adventurelandresort.com/",
-      "description": null,
-      "city": "Altoona",
-      "teams": null,
-      "age_group": "All ages",
-      "registration_url": null,
-      "latitude": 41.6442,
-      "longitude": -93.4647
     },
     {
       "title": "Daniel Tiger Meet & Greets",
@@ -1155,42 +1137,6 @@
       "longitude": -93.6001
     },
     {
-      "title": "Iowa City Jazz Festival",
-      "date": "July 3-5, 2026",
-      "time": "All day",
-      "location": "Iowa City, IA",
-      "venue": null,
-      "category": "community",
-      "subcategory": "music",
-      "source": "Travel Iowa",
-      "source_url": "https://www.traveliowa.com/events/",
-      "description": null,
-      "city": "Iowa City",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.6611,
-      "longitude": -91.5302
-    },
-    {
-      "title": "AJ's Independence Day (Clear Lake)",
-      "date": "July 4, 2026",
-      "time": "All day",
-      "location": "Clear Lake, IA",
-      "venue": null,
-      "category": "community",
-      "subcategory": "festival",
-      "source": "Travel Iowa",
-      "source_url": "https://www.traveliowa.com/events/",
-      "description": null,
-      "city": "Clear Lake",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 43.138,
-      "longitude": -93.3791
-    },
-    {
       "title": "Hinterland Music Festival",
       "date": "July 30 - August 2, 2026",
       "time": "All day",
@@ -1495,24 +1441,6 @@
       "registration_url": null,
       "latitude": 41.5868,
       "longitude": -93.625
-    },
-    {
-      "title": "Independence Day Celebration",
-      "date": "July 4, 2026",
-      "time": "All day",
-      "location": "Urbandale, IA",
-      "venue": "Living History Farms",
-      "category": "family",
-      "subcategory": "holiday",
-      "source": "Living History Farms",
-      "source_url": "https://www.lhf.org/",
-      "description": null,
-      "city": "Urbandale",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.6267,
-      "longitude": -93.7122
     },
     {
       "title": "Fall Harvest Festival",
