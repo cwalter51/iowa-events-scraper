@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-10T13:06:54.645087",
-  "total_events": 33,
+  "scraped_at": "2026-08-17T12:42:32.458134",
+  "total_events": 32,
   "events": [
     {
       "title": "Great River Classic Soccer",
@@ -142,24 +142,6 @@
       "city": "Des Moines",
       "teams": null,
       "age_group": null,
-      "registration_url": null,
-      "latitude": 41.5868,
-      "longitude": -93.625
-    },
-    {
-      "title": "Iowa State Fair",
-      "date": "August 13-23, 2026",
-      "time": "All day",
-      "location": "Des Moines, IA",
-      "venue": "Des Moines Fairgrounds",
-      "category": "fair",
-      "subcategory": "county_fair",
-      "source": "Iowa Fairs Association",
-      "source_url": "https://iowafairs.com/",
-      "description": null,
-      "city": "Des Moines",
-      "teams": null,
-      "age_group": "All ages",
       "registration_url": null,
       "latitude": 41.5868,
       "longitude": -93.625
