@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-24T12:49:24.929206",
-  "total_events": 30,
+  "scraped_at": "2026-08-31T18:51:19.248837",
+  "total_events": 29,
   "events": [
     {
       "title": "Great River Classic Soccer",
@@ -260,24 +260,6 @@
       "time": "7:30 AM",
       "location": "West Des Moines, IA",
       "venue": "Various",
-      "category": "community",
-      "subcategory": "chamber",
-      "source": "WDM Chamber",
-      "source_url": "https://wdmchamber.org/",
-      "description": null,
-      "city": "West Des Moines",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.5772,
-      "longitude": -93.7113
-    },
-    {
-      "title": "Tri-Chamber Golf Outing",
-      "date": "August 24, 2026",
-      "time": "All day",
-      "location": "West Des Moines, IA",
-      "venue": "Beaver Creek Golf Course",
       "category": "community",
       "subcategory": "chamber",
       "source": "WDM Chamber",
