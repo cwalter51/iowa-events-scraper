@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-31T18:51:19.248837",
-  "total_events": 29,
+  "scraped_at": "2026-09-07T17:21:56.154189",
+  "total_events": 28,
   "events": [
     {
       "title": "Great River Classic Soccer",
@@ -325,24 +325,6 @@
       "registration_url": null,
       "latitude": 41.7318,
       "longitude": -93.6001
-    },
-    {
-      "title": "Iowa Football vs Northern Illinois",
-      "date": "September 5, 2026",
-      "time": "TBD",
-      "location": "Iowa City, IA",
-      "venue": "Kinnick Stadium",
-      "category": "college_sports",
-      "subcategory": "football",
-      "source": "Iowa Hawkeyes",
-      "source_url": "https://hawkeyesports.com/",
-      "description": null,
-      "city": "Iowa City",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.6611,
-      "longitude": -91.5302
     },
     {
       "title": "Iowa Football vs Iowa State",
