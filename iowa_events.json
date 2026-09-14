@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-07T17:21:56.154189",
-  "total_events": 28,
+  "scraped_at": "2026-09-14T17:48:58.601467",
+  "total_events": 26,
   "events": [
     {
       "title": "Great River Classic Soccer",
@@ -145,24 +145,6 @@
       "registration_url": null,
       "latitude": 41.5868,
       "longitude": -93.625
-    },
-    {
-      "title": "Clay County Fair",
-      "date": "September 12-20, 2026",
-      "time": "All day",
-      "location": "Spencer, IA",
-      "venue": "Spencer Fairgrounds",
-      "category": "fair",
-      "subcategory": "county_fair",
-      "source": "Iowa Fairs Association",
-      "source_url": "https://iowafairs.com/",
-      "description": null,
-      "city": "Spencer",
-      "teams": null,
-      "age_group": "All ages",
-      "registration_url": null,
-      "latitude": null,
-      "longitude": null
     },
     {
       "title": "Kenny Wayne Shepherd Band",
@@ -325,24 +307,6 @@
       "registration_url": null,
       "latitude": 41.7318,
       "longitude": -93.6001
-    },
-    {
-      "title": "Iowa Football vs Iowa State",
-      "date": "September 12, 2026",
-      "time": "TBD",
-      "location": "Iowa City, IA",
-      "venue": "Kinnick Stadium",
-      "category": "college_sports",
-      "subcategory": "football",
-      "source": "Iowa Hawkeyes",
-      "source_url": "https://hawkeyesports.com/",
-      "description": null,
-      "city": "Iowa City",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.6611,
-      "longitude": -91.5302
     },
     {
       "title": "Iowa Football vs UNI",
