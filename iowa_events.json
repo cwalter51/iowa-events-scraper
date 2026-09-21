@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-14T17:48:58.601467",
-  "total_events": 26,
+  "scraped_at": "2026-09-21T17:56:09.224870",
+  "total_events": 22,
   "events": [
     {
       "title": "Great River Classic Soccer",
@@ -55,24 +55,6 @@
       "registration_url": null,
       "latitude": 41.5868,
       "longitude": -93.625
-    },
-    {
-      "title": "Oktoberfest",
-      "date": "September 2026",
-      "time": "All day",
-      "location": "Altoona, IA",
-      "venue": "Adventureland",
-      "category": "family",
-      "subcategory": "festival",
-      "source": "Adventureland",
-      "source_url": "https://www.adventurelandresort.com/",
-      "description": null,
-      "city": "Altoona",
-      "teams": null,
-      "age_group": "All ages",
-      "registration_url": null,
-      "latitude": 41.6442,
-      "longitude": -93.4647
     },
     {
       "title": "Phantom Fall Fest",
@@ -165,24 +147,6 @@
       "longitude": -91.6656
     },
     {
-      "title": "ArtSplash",
-      "date": "September 2026",
-      "time": "All day",
-      "location": "Sioux City, IA",
-      "venue": "Downtown",
-      "category": "community",
-      "subcategory": "arts",
-      "source": "Explore Siouxland",
-      "source_url": "https://exploresiouxland.com/events/",
-      "description": null,
-      "city": "Sioux City",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 42.4963,
-      "longitude": -96.4049
-    },
-    {
       "title": "Five Flags Movie Series",
       "date": "Winter 2026",
       "time": "Evening",
@@ -199,24 +163,6 @@
       "registration_url": null,
       "latitude": 42.5006,
       "longitude": -90.6646
-    },
-    {
-      "title": "World Food & Music Festival",
-      "date": "September 2026",
-      "time": "All day",
-      "location": "Des Moines, IA",
-      "venue": "Western Gateway Park",
-      "category": "community",
-      "subcategory": "festival",
-      "source": "Catch Des Moines",
-      "source_url": "https://www.catchdesmoines.com/events/",
-      "description": null,
-      "city": "Des Moines",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.5868,
-      "longitude": -93.625
     },
     {
       "title": "Holidazzle",
@@ -307,24 +253,6 @@
       "registration_url": null,
       "latitude": 41.7318,
       "longitude": -93.6001
-    },
-    {
-      "title": "Iowa Football vs UNI",
-      "date": "September 19, 2026",
-      "time": "TBD",
-      "location": "Iowa City, IA",
-      "venue": "Kinnick Stadium",
-      "category": "college_sports",
-      "subcategory": "football",
-      "source": "Iowa Hawkeyes",
-      "source_url": "https://hawkeyesports.com/",
-      "description": null,
-      "city": "Iowa City",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.6611,
-      "longitude": -91.5302
     },
     {
       "title": "IGHSAU State Volleyball",
