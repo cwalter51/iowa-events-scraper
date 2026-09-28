@@ -1,25 +1,7 @@
 {
-  "scraped_at": "2026-09-21T17:56:09.224870",
-  "total_events": 22,
+  "scraped_at": "2026-09-28T19:19:15.813820",
+  "total_events": 20,
   "events": [
-    {
-      "title": "Great River Classic Soccer",
-      "date": "September 24-26, 2026",
-      "time": "8:00 AM",
-      "location": "Bettendorf, IA",
-      "venue": "TBK Bank Sports Complex",
-      "category": "kids_athletics",
-      "subcategory": "soccer",
-      "source": "TBK Bank Sports Complex",
-      "source_url": "https://www.tbkbanksportscomplex.com/events/",
-      "description": null,
-      "city": "Bettendorf",
-      "teams": null,
-      "age_group": "Youth",
-      "registration_url": null,
-      "latitude": 41.5503,
-      "longitude": -90.4857
-    },
     {
       "title": "Battle By The River Rodeo",
       "date": "2026",
@@ -55,24 +37,6 @@
       "registration_url": null,
       "latitude": 41.5868,
       "longitude": -93.625
-    },
-    {
-      "title": "Phantom Fall Fest",
-      "date": "September 26 - October 31, 2026",
-      "time": "All day",
-      "location": "Altoona, IA",
-      "venue": "Adventureland",
-      "category": "family",
-      "subcategory": "halloween",
-      "source": "Adventureland",
-      "source_url": "https://www.adventurelandresort.com/",
-      "description": null,
-      "city": "Altoona",
-      "teams": null,
-      "age_group": "All ages",
-      "registration_url": null,
-      "latitude": 41.6442,
-      "longitude": -93.4647
     },
     {
       "title": "Living History Farms Race",
