@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T18:24:10.736309",
-  "total_events": 20,
+  "scraped_at": "2026-10-26T18:19:30.168621",
+  "total_events": 16,
   "events": [
     {
       "title": "Battle By The River Rodeo",
@@ -201,24 +201,6 @@
       "longitude": -93.7122
     },
     {
-      "title": "Witches Night Out",
-      "date": "October 2026",
-      "time": "Evening",
-      "location": "Ankeny, IA",
-      "venue": "Various",
-      "category": "community",
-      "subcategory": "festival",
-      "source": "Ankeny Chamber",
-      "source_url": "https://www.ankeny.org/",
-      "description": null,
-      "city": "Ankeny",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.7318,
-      "longitude": -93.6001
-    },
-    {
       "title": "IGHSAU State Volleyball",
       "date": "November 2026",
       "time": "All day",
@@ -273,24 +255,6 @@
       "longitude": -93.625
     },
     {
-      "title": "Boo at the Zoo",
-      "date": "October 2026",
-      "time": "All day",
-      "location": "Des Moines, IA",
-      "venue": "Blank Park Zoo",
-      "category": "family",
-      "subcategory": "family",
-      "source": "Blank Park Zoo",
-      "source_url": "https://www.blankparkzoo.com/",
-      "description": null,
-      "city": "Des Moines",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.5868,
-      "longitude": -93.625
-    },
-    {
       "title": "Wild Lights",
       "date": "November-December 2026",
       "time": "Evening",
@@ -325,42 +289,6 @@
       "registration_url": null,
       "latitude": 41.5868,
       "longitude": -93.625
-    },
-    {
-      "title": "Fall Harvest Festival",
-      "date": "October 2026",
-      "time": "All day",
-      "location": "Urbandale, IA",
-      "venue": "Living History Farms",
-      "category": "family",
-      "subcategory": "festival",
-      "source": "Living History Farms",
-      "source_url": "https://www.lhf.org/",
-      "description": null,
-      "city": "Urbandale",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.6267,
-      "longitude": -93.7122
-    },
-    {
-      "title": "Legends & Lanterns Halloween",
-      "date": "October 2026",
-      "time": "Evening",
-      "location": "Urbandale, IA",
-      "venue": "Living History Farms",
-      "category": "family",
-      "subcategory": "halloween",
-      "source": "Living History Farms",
-      "source_url": "https://www.lhf.org/",
-      "description": null,
-      "city": "Urbandale",
-      "teams": null,
-      "age_group": null,
-      "registration_url": null,
-      "latitude": 41.6267,
-      "longitude": -93.7122
     }
   ]
 }
